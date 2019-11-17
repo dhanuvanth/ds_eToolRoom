@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">eTool Room</string>
+    <string name="etool_room">eTool Room</string>
+    <string name="tool_room">tool room</string>
+    <string name="manufacturing">Manufacturing</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="existing">Existing</string>
+    <string name="New">New</string>
+    <string name="tool">Tool :</string>
+    <string name="size">Size :</string>
+    <string name="plant">Plant :</string>
+    <string name="extr">Extr :</string>
+    <string name="handed_over">Handed \n over :</string>
+    <string name="select_date">Select Date</string>
+    <string name="send">send</string>
+    <string name="report">report</string>
+    <string name="select_time">Select Time</string>
+    <string name="commitment">Commit\nment :</string>
+    <string name="plant_name">Plant Name:</string>
+    <string name="enter_the_name">Enter the name…</string>
+    <string name="add_contact">add contact</string>
+    <string name="finish">finish</string>
+    <string name="id">ID :</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="phone_no">Phone No</string>
+    <string name="message">Message</string>
+    <string name="show">Show</string>
+</resources>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1732767054",
+    "firebase_url": "https://etoolroom2-d0582.firebaseio.com",
+    "project_id": "etoolroom2-d0582",
+    "storage_bucket": "etoolroom2-d0582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1732767054:android:e5d07fe16c763242",
+        "android_client_info": {
+          "package_name": "com.example.etoolroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1732767054-7hfkvcsp0p1fnga37mp5dmg6rpeb1oeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.etoolroom",
+            "certificate_hash": "c140bd53243ab1ba187ffd0d30f6baae0bedba07"
+          }
+        },
+        {
+          "client_id": "1732767054-jq2f51fru15b064v0oc5dd7vf30vjegc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.etoolroom",
+            "certificate_hash": "849cd86fe4e0e90b78022c43f7dbaea9a011822f"
+          }
+        },
+        {
+          "client_id": "1732767054-u9cc248548h5k9vjdbqo0035dtf09fee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQimlqFwl4l-CT5MeeE6Mxnkvi7jMC3Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1732767054-u9cc248548h5k9vjdbqo0035dtf09fee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

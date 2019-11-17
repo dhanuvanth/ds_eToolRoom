@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="4sp"
+    tools:context=".ContactList">
+
+    <ListView
+        android:id="@+id/recycle_contact_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"/>
+
+    <Button
+        android:id="@+id/show"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/colour"
+        android:baselineAligned="false"
+        android:textColor="@color/white"
+        android:layout_margin="4sp"
+        android:elevation="5sp"
+        android:text="@string/show"/>
+
+</LinearLayout>

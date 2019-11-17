@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".LoginActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/login"
+        android:textSize="30sp"
+        android:padding="15sp"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btn_toolroom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/colour"
+        android:baselineAligned="false"
+        android:textColor="@color/white"
+        android:layout_margin="10sp"
+        android:elevation="5sp"
+        android:text="@string/tool_room" />
+    <Button
+        android:id="@+id/btn_manufacturing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/colour"
+        android:baselineAligned="false"
+        android:textColor="@color/white"
+        android:layout_margin="10sp"
+        android:elevation="5sp"
+        android:text="@string/manufacturing" />
+
+</LinearLayout>
